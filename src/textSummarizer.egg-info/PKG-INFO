@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.1
+Summary: A small python package to summarize text
+Home-page: https://github.com/nitanshuj/textSummarizer
+Author: nitanshuj
+Author-email: nitanshuj138@gmail.com
+Project-URL: Bug Tracker, https://github.com/nitanshuj/textSummarizer/issues
+Description-Content-Type: text/markdown
+
+# Text Summarizer 1
+
+Just for Sample: Try 1
+
+Basic End to End Text Summarizer with Deployment
