@@ -9,6 +9,8 @@ nltk
 tqdm
 PyYAML
 matplotlib
+seaborn
+patool
 torch
 notebook
 boto3
